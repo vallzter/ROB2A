@@ -2,6 +2,7 @@
 Verkefni fyrir ROB2A
 ## Nemendur
 Valgeir Ingi Þórðarson
+
 Úlfur Ingólfson
 
 valgeiringi@gmail.com
