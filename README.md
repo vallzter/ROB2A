@@ -1,7 +1,8 @@
 # ROB2A
 Verkefni fyrir ROB2A
-## Nemandi
+## Nemendur
 Valgeir Ingi Þórðarson
+Úlfur Ingólfson
 
 valgeiringi@gmail.com
 ## Kennari
